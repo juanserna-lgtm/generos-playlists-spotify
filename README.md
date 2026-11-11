@@ -33,7 +33,7 @@ Dashboard en Tableau, 4 hojas, titulado "Géneros y playlists en Spotify":
 3. Top 3 artistas por género
 4. Audio promedio por género
 
-- Tableau Public: [enlace por publicar]
+- Tableau Public: https://public.tableau.com/views/GnerosyplaylistsenSpotify/Dashboard1
 
 ## Notas
 
