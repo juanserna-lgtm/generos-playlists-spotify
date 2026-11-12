@@ -47,7 +47,7 @@ Dashboard en Tableau, 4 hojas, titulado "Géneros y playlists en Spotify":
 
 ## Herramientas
 
-Python, pandas, NumPy, Kaggle y Tableau.
+Python, pandas, NumPy, Kaggle, Tableau, SQL, DataGrip y SQLite.
 ## SQL (DataGrip + SQLite)
 
 Reproduje los mismos resultados del caso con SQL, sobre `spotify_limpio.csv` importado a SQLite en DataGrip. Las consultas están en `sql/consultas.sql`: canciones por género, popularidad promedio, top 3 artistas por género (18 filas) y audio promedio por género. Todos los resultados coincidieron con Python y Tableau.
