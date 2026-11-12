@@ -36,4 +36,4 @@ SELECT playlist_genre, track_artist, popularidad_promedio, canciones_distintas
 FROM ranking
 WHERE lugar <= 3
 ORDER BY playlist_genre, lugar;
-Agrega consultas SQL
+
